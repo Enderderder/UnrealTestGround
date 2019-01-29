@@ -18,6 +18,10 @@ class ASciiiiienceCharacter : public ACharacter
 	/** Follow camera */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
 	class UCameraComponent* FollowCamera;
+
+	/** Custom jump */
+	int m_jumpCounter;
+
 public:
 	ASciiiiienceCharacter();
 
@@ -29,6 +33,12 @@ public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category=Camera)
 	float BaseLookUpRate;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Multi Jump Ability")
+	int MaxJumpCount;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Multi Jump Ability")
+	float MultiJumpForce;
+
 protected:
 
 	/** Resets HMD orientation in VR. */
@@ -39,6 +49,9 @@ protected:
 
 	/** Called for side to side input */
 	void MoveRight(float Value);
+
+	/** Do custom jump logic */
+	void CustomJump();
 
 	/** 
 	 * Called via input to turn at a given rate. 
@@ -62,6 +75,10 @@ protected:
 	// APawn interface
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 	// End of APawn interface
+
+	// ACharacter interface
+	virtual void Landed(const FHitResult& Hit) override;
+	// End of ACharacter interface
 
 public:
 	/** Returns CameraBoom subobject **/
