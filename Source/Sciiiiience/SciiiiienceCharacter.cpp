@@ -32,6 +32,10 @@ ASciiiiienceCharacter::ASciiiiienceCharacter()
 	GetCharacterMovement()->JumpZVelocity = 600.f;
 	GetCharacterMovement()->AirControl = 0.2f;
 
+	// Configure multi jump stat
+	MaxJumpCount = 3;
+	MultiJumpForce = 600.0f;
+
 	// Create a camera boom (pulls in towards the player if there is a collision)
 	CameraBoom = CreateDefaultSubobject<USpringArmComponent>(TEXT("CameraBoom"));
 	CameraBoom->SetupAttachment(RootComponent);
@@ -54,7 +58,7 @@ void ASciiiiienceCharacter::SetupPlayerInputComponent(class UInputComponent* Pla
 {
 	// Set up gameplay key bindings
 	check(PlayerInputComponent);
-	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
+	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ASciiiiienceCharacter::CustomJump);
 	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
 
 	PlayerInputComponent->BindAxis("MoveForward", this, &ASciiiiienceCharacter::MoveForward);
@@ -77,6 +81,14 @@ void ASciiiiienceCharacter::SetupPlayerInputComponent(class UInputComponent* Pla
 }
 
 
+void ASciiiiienceCharacter::Landed(const FHitResult& Hit)
+{
+	Super::Landed(Hit);
+
+	// Reset the jump count as the player reaches the ground
+	m_jumpCounter = 0;
+}
+
 void ASciiiiienceCharacter::OnResetVR()
 {
 	UHeadMountedDisplayFunctionLibrary::ResetOrientationAndPosition();
@@ -84,12 +96,12 @@ void ASciiiiienceCharacter::OnResetVR()
 
 void ASciiiiienceCharacter::TouchStarted(ETouchIndex::Type FingerIndex, FVector Location)
 {
-		Jump();
+	Jump();
 }
 
 void ASciiiiienceCharacter::TouchStopped(ETouchIndex::Type FingerIndex, FVector Location)
 {
-		StopJumping();
+	StopJumping();
 }
 
 void ASciiiiienceCharacter::TurnAtRate(float Rate)
@@ -131,4 +143,25 @@ void ASciiiiienceCharacter::MoveRight(float Value)
 		// add movement in that direction
 		AddMovementInput(Direction, Value);
 	}
+}
+
+void ASciiiiienceCharacter::CustomJump()
+{
+
+	if (!bPressedJump && m_jumpCounter < MaxJumpCount)
+	{
+		// Increase the jump counter as player is jumping
+		m_jumpCounter++;
+
+		if (m_jumpCounter == 1)
+		{
+			Jump();
+		}
+		else
+		{
+			bPressedJump = true;
+			LaunchCharacter(FVector(0.0f, 0.0f, MultiJumpForce), false, true);
+		}
+	}
+
 }
