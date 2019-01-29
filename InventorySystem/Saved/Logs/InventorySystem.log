@@ -1,0 +1,1813 @@
+﻿Log file open, 01/29/19 18:39:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: InventorySystem
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.267846
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.079s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Engine.ini]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Engine.ini]
+[2019.01.29-05.39.36:588][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Engine.ini]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Engine.ini]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.29-05.39.36:588][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Engine.ini]
+[2019.01.29-05.39.36:588][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Engine.ini]
+[2019.01.29-05.39.36:594][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.29-05.39.36:594][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.29-05.39.36:595][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.29-05.39.36:595][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.29-05.39.36:595][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.29-05.39.36:605][  0]LogHAL: Display: Platform has ~ 16 GB [17107013632 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.29-05.39.36:605][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.29-05.39.36:605][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.29-05.39.36:605][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-05.39.36:605][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.29-05.39.36:606][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.29-05.39.36:606][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal/InventorySystem/Saved/Config/Windows/Engine.ini]
+[2019.01.29-05.39.36:606][  0]LogInit: Computer: DESKTOP-A6VND44
+[2019.01.29-05.39.36:606][  0]LogInit: User: Chris
+[2019.01.29-05.39.36:606][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.29-05.39.36:606][  0]LogInit: High frequency timer resolution =3.515622 MHz
+[2019.01.29-05.39.36:607][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.29-05.39.36:607][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.29-05.39.36:607][  0]LogMemory: Process Physical Memory: 103.48 MB used, 103.48 MB peak
+[2019.01.29-05.39.36:607][  0]LogMemory: Process Virtual Memory: 89.95 MB used, 89.95 MB peak
+[2019.01.29-05.39.36:607][  0]LogMemory: Physical Memory: 7765.06 MB used,  8549.46 MB free, 16314.52 MB total
+[2019.01.29-05.39.36:607][  0]LogMemory: Virtual Memory: 4651.01 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.01.29-05.39.36:623][  0]LogInit: Using OS detected language (en-GB).
+[2019.01.29-05.39.36:623][  0]LogInit: Using OS detected locale (en-NZ).
+[2019.01.29-05.39.36:624][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.01.29-05.39.36:963][  0]LogStreaming: Display: Took  0.340s to InitEngineTextLocalization.
+[2019.01.29-05.39.36:963][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.29-05.39.37:001][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.29-05.39.37:001][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.29-05.39.37:286][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.29-05.39.37:286][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.29-05.39.37:332][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.01.29-05.39.37:332][  0]LogD3D11RHI:       6052/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.29-05.39.37:334][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.29-05.39.37:334][  0]LogD3D11RHI:       0/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.29-05.39.37:334][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.29-05.39.37:340][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.29-05.39.37:340][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.29-05.39.37:340][  0]LogWindows: EnumDisplayDevices:
+[2019.01.29-05.39.37:340][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.01.29-05.39.37:340][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.01.29-05.39.37:340][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.01.29-05.39.37:340][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.01.29-05.39.37:340][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.29-05.39.37:340][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.01.29-05.39.37:341][  0]LogD3D11RHI:   Driver Version: 417.22 (internal:25.21.14.1722, unified:417.22)
+[2019.01.29-05.39.37:341][  0]LogD3D11RHI:      Driver Date: 11-29-2018
+[2019.01.29-05.39.37:341][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.01.29-05.39.37:373][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.29-05.39.37:390][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.29-05.39.37:733][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.29-05.39.37:743][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.29-05.39.37:754][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.29-05.39.37:764][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.29-05.39.37:774][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.29-05.39.37:785][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.29-05.39.37:795][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.29-05.39.37:804][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.29-05.39.37:809][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.29-05.39.37:865][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-05.39.37:865][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-05.39.37:865][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-05.39.37:865][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-05.39.37:865][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-05.39.37:865][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-05.39.37:865][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-05.39.37:865][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-05.39.37:865][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-05.39.37:865][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-05.39.37:865][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-05.39.37:865][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-05.39.37:865][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-05.39.37:865][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-05.39.37:865][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-05.39.37:865][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-05.39.37:865][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-05.39.37:865][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-05.39.37:866][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.29-05.39.37:923][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.29-05.39.37:923][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.29-05.39.37:941][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.29-05.39.37:941][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.29-05.39.37:951][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.29-05.39.37:961][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.29-05.39.37:971][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.29-05.39.37:982][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.29-05.39.38:018][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.29-05.39.38:018][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.29-05.39.38:018][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.29-05.39.38:062][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../../Unreal/InventorySystem/Intermediate/Shaders/WorkingDirectory/13252/).
+[2019.01.29-05.39.38:062][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Chris/AppData/Local/Temp/UnrealShaderWorkingDir/67A1875746249E5D67BB15B7C1239F92/'.
+[2019.01.29-05.39.38:063][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.29-05.39.38:063][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.29-05.39.38:063][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.29-05.39.38:514][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.29-05.39.38:563][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Chris/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.29-05.39.38:563][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Chris/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.29-05.39.38:563][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal/InventorySystem/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.29-05.39.38:563][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.29-05.39.38:563][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal/InventorySystem/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.29-05.39.38:563][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.29-05.39.38:574][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.29-05.39.38:574][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.29-05.39.38:574][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.29-05.39.38:586][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.29-05.39.38:586][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.29-05.39.38:586][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.29-05.39.38:606][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.29-05.39.38:608][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.29-05.39.38:608][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.29-05.39.38:696][  0]LogAssetRegistry: FAssetRegistry took 0.0312 seconds to start up
+[2019.01.29-05.39.38:958][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.29-05.39.39:016][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.29-05.39.39:019][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.29-05.39.39:019][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.29-05.39.39:019][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.29-05.39.39:019][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.29-05.39.39:100][  0]LogNetVersion: InventorySystem 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2932457726)
+[2019.01.29-05.39.39:584][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.090753 seconds
+[2019.01.29-05.39.39:590][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.29-05.39.39:590][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.29-05.39.39:590][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.29-05.39.40:428][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.29-05.39.40:476][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.29-05.39.41:291][  0]SourceControl: Source control is disabled
+[2019.01.29-05.39.41:291][  0]SourceControl: Source control is disabled
+[2019.01.29-05.39.41:292][  0]SourceControl: Source control is disabled
+[2019.01.29-05.39.41:293][  0]SourceControl: Source control is disabled
+[2019.01.29-05.39.41:466][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.29-05.39.41:567][  0]LogOcInput: OculusInput pre-init called
+[2019.01.29-05.39.41:702][  0]LogEngine: Initializing Engine...
+[2019.01.29-05.39.41:702][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.29-05.39.41:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.29-05.39.41:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.29-05.39.41:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.29-05.39.41:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.29-05.39.41:935][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.29-05.39.41:946][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.29-05.39.41:972][  0]LogInit: XAudio2 using 'Speakers (Logitech G433 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.01.29-05.39.41:990][  0]LogInit: FAudioDevice initialized.
+[2019.01.29-05.39.41:990][  0]LogNetVersion: Set ProjectVersion to 1.2.0.1. Version Checksum will be recalculated on next use.
+[2019.01.29-05.39.42:062][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Chris/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.29-05.39.42:066][  0]LogInit: Texture streaming: Enabled
+[2019.01.29-05.39.42:084][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.29-05.39.42:113][  0]LogInit: Transaction tracking system initialized
+[2019.01.29-05.39.42:135][  0]BlueprintLog: New page: Editor Load
+[2019.01.29-05.39.42:222][  0]LocalizationService: Localization service is disabled
+[2019.01.29-05.39.42:828][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/InventorySystem/Content/' took 0.01s
+[2019.01.29-05.39.42:828][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.29-05.39.42:828][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.29-05.39.42:828][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.29-05.39.42:828][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.29-05.39.42:828][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.29-05.39.42:829][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.29-05.39.42:829][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.29-05.39.42:954][  0]SourceControl: Source control is disabled
+[2019.01.29-05.39.42:954][  0]Cmd: MAP LOAD FILE="../../../../../Unreal/InventorySystem/Content/InventorySystem/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.29-05.39.42:955][  0]LightingResults: New page: Lighting Build
+[2019.01.29-05.39.42:957][  0]MapCheck: New page: Map Check
+[2019.01.29-05.39.42:957][  0]LightingResults: New page: Lighting Build
+[2019.01.29-05.39.45:447][  0]LogTexture: Display: Building textures: MT_BlankInventoryItem (AutoDXT, 128X128)
+[2019.01.29-05.39.45:447][  0]LogTexture: Display: Building textures: MT_SelectedInventorySlot (AutoDXT, 128X128)
+[2019.01.29-05.39.45:447][  0]LogTexture: Display: Building textures: MT_M4A1 (AutoDXT, 2000X2000)
+[2019.01.29-05.39.45:447][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2019.01.29-05.39.45:447][  0]LogTexture: Display: Building textures: MT_Pear (AutoDXT, 2000X2000)
+[2019.01.29-05.39.45:447][  0]LogTexture: Display: Building textures: MT_Gun (AutoDXT, 2000X2000)
+[2019.01.29-05.39.45:447][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2019.01.29-05.39.45:447][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2019.01.29-05.39.45:447][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2019.01.29-05.39.45:447][  0]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2019.01.29-05.39.45:447][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2019.01.29-05.39.45:447][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2019.01.29-05.39.45:447][  0]LogStaticMesh: Building static mesh SM_BasicChest...
+[2019.01.29-05.39.45:522][  0]LogStaticMesh: Built static mesh [0.08s] /Game/InventorySystem/Meshes/SM_BasicChest.SM_BasicChest
+[2019.01.29-05.39.45:789][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2019.01.29-05.39.45:789][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2019.01.29-05.39.47:180][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2019.01.29-05.39.47:180][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2019.01.29-05.39.47:180][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2019.01.29-05.39.47:180][  0]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2019.01.29-05.39.47:180][  0]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2019.01.29-05.39.47:180][  0]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2019.01.29-05.39.47:180][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 2048X1024)
+[2019.01.29-05.39.47:180][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 2048X1024)
+[2019.01.29-05.39.47:180][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 2048X1024)
+[2019.01.29-05.39.47:181][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 2048X1024)
+[2019.01.29-05.39.47:181][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 2048X1024)
+[2019.01.29-05.39.47:181][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 2048X1024)
+[2019.01.29-05.39.47:181][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 64X32)
+[2019.01.29-05.39.47:181][  0]LogTexture: Display: Building textures: MT_DeSelectedInventorySlot (AutoDXT, 128X128)
+[2019.01.29-05.39.47:181][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 2048X1024)
+[2019.01.29-05.39.47:181][  0]LogTexture: Display: Building textures: MT_Burger (AutoDXT, 2000X2000)
+[2019.01.29-05.39.47:181][  0]LogTexture: Display: Building textures: MT_Duck (AutoDXT, 2000X2000)
+[2019.01.29-05.39.47:181][  0]LogTexture: Display: Building textures: MT_Apple (AutoDXT, 2000X2000)
+[2019.01.29-05.39.47:181][  0]LogTexture: Display: Building textures: MT_Key (AutoDXT, 2000X2000)
+[2019.01.29-05.39.47:292][  0]LogMaterial: Display: Missing cached shader map for material M_DefaultCubeMaterial, compiling. 
+[2019.01.29-05.39.47:589][  0]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.29-05.39.47:589][  0]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.29-05.39.47:589][  0]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.29-05.39.47:589][  0]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.29-05.39.47:589][  0]LogMaterial: Display: Missing cached shader map for material M_MasterDropItemMaterial, compiling. 
+[2019.01.29-05.39.47:669][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.29-05.39.47:669][  0]LogClass: Warning: Enum '/Game/InventorySystem/Enums/EItems.EItems' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.01.29-05.39.47:671][  0]LogAIModule: Creating AISystem for world Overview
+[2019.01.29-05.39.47:751][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.29-05.39.47:784][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.29-05.39.47:784][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2019.01.29-05.39.47:784][  0]LogFileHelpers: Loading map 'Overview' took 4.830
+[2019.01.29-05.39.49:335][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.29-05.39.49:382][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.29-05.39.49:388][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.29-05.39.49:395][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.29-05.39.49:450][  0]LogCollectionManager: Loaded 0 collections in 0.001312 seconds
+[2019.01.29-05.39.49:920][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/InventorySystem/Saved/Collections/' took 0.01s
+[2019.01.29-05.39.49:920][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/InventorySystem/Content/Developers/Chris/Collections/' took 0.01s
+[2019.01.29-05.39.49:920][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/InventorySystem/Content/Collections/' took 0.04s
+[2019.01.29-05.39.49:920][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.29-05.39.49:927][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2651 classes and 620 folders.
+[2019.01.29-05.39.50:015][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.29-05.39.50:489][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.50:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.50:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.50:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.50:726][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.50:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.50:810][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.50:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.51:079][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.51:157][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.51:181][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.51:217][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.51:268][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.51:315][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.51:505][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.51:551][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.51:600][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.51:616][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.51:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.51:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.51:812][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.51:902][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.51:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.51:998][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.52:043][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.52:074][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-05.39.55:466][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.29-05.39.55:466][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.29-05.39.55:466][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.29-05.39.55:506][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.01.29-05.40.00:670][  0]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.29-05.40.00:672][  0]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.29-05.40.00:781][  0]LogSlate: Took 0.026530 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.29-05.40.01:427][  0]LogRenderer: Reallocating scene render targets to support 1200x588 Format 10 NumSamples 1 (Frame:1).
+[2019.01.29-05.40.02:329][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.29-05.40.02:330][  0]LogLoad: (Engine Initialization) Total time: 27.51 seconds
+[2019.01.29-05.40.02:330][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.29-05.40.02:401][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.29-05.40.02:573][  0]LogRenderer: Reallocating scene render targets to support 1200x604 Format 10 NumSamples 1 (Frame:2).
+[2019.01.29-05.40.02:573][  0]LogSlate: Took 0.101306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.29-05.40.11:720][881]LogAssetRegistry: Asset discovery search completed in 33.0466 seconds
+[2019.01.29-05.40.11:721][881]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.29-05.40.11:721][881]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2019.01.29-05.40.33:155][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.29-05.40.33:176][948]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.29-05.40.33:199][948]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InventorySystem/Maps/Overview.Overview:PersistentLevel' has LevelScriptBlueprint '/Game/InventorySystem/Maps/Overview.Overview:PersistentLevel.Overview' with GeneratedClass '/Game/InventorySystem/Maps/Overview.Overview_C' with ClassGeneratedBy '/Game/InventorySystem/Maps/Overview.Overview:PersistentLevel.Overview'
+[2019.01.29-05.40.33:199][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.29-05.40.33:223][948]PIE: New page: PIE session: Overview (30/01/2019 7:40:33 am)
+[2019.01.29-05.40.33:249][948]LogPlayLevel: Creating play world package: /Game/InventorySystem/Maps/UEDPIE_0_Overview
+[2019.01.29-05.40.33:270][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020769s)
+[2019.01.29-05.40.33:270][948]LogAIModule: Creating AISystem for world Overview
+[2019.01.29-05.40.33:270][948]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2019.01.29-05.40.33:271][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InventorySystem/Maps/Overview.Overview to /Game/InventorySystem/Maps/UEDPIE_0_Overview.Overview (0.021836s)
+[2019.01.29-05.40.33:313][948]LogInit: XAudio2 using 'Speakers (Logitech G433 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.01.29-05.40.33:326][948]LogInit: FAudioDevice initialized.
+[2019.01.29-05.40.33:386][948]LogLoad: Game class is 'BP_InventoryGameMode_C'
+[2019.01.29-05.40.33:413][948]LogWorld: Bringing World /Game/InventorySystem/Maps/UEDPIE_0_Overview.Overview up for play (max tick rate 0) at 2019.01.29-18.40.33
+[2019.01.29-05.40.33:439][948]LogWorld: Bringing up level for play took: 0.028610
+[2019.01.29-05.40.33:656][948]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.01.29-05.40.33:657][948]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.29-05.40.33:657][948]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.29-05.40.33:657][948]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.29-05.40.33:752][948]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.29-05.40.33:752][948]PIE: Play in editor start time for /Game/InventorySystem/Maps/UEDPIE_0_Overview 1.024
+[2019.01.29-05.40.33:752][948]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InventorySystem/Maps/Overview.Overview:PersistentLevel' has LevelScriptBlueprint '/Game/InventorySystem/Maps/Overview.Overview:PersistentLevel.Overview' with GeneratedClass '/Game/InventorySystem/Maps/Overview.Overview_C' with ClassGeneratedBy '/Game/InventorySystem/Maps/Overview.Overview:PersistentLevel.Overview'
+[2019.01.29-05.40.33:828][948]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'HotbarSlots' of length 8 in '/Game/InventorySystem/UMG/WBP_HotbarWidget.WBP_HotbarWidget_C'!
+[2019.01.29-05.40.38:348][488]LogBlueprintUserMessages: [BP_Pickup5] Unsuccessfully
+[2019.01.29-05.40.38:773][539]LogBlueprintUserMessages: [BP_Pickup2] Unsuccessfully
+[2019.01.29-05.40.41:324][845]LogBlueprintUserMessages: [BP_Pickup2] Unsuccessfully
+[2019.01.29-05.40.42:841][ 27]LogBlueprintUserMessages: [BP_Pickup2] Unsuccessfully
+[2019.01.29-05.40.43:108][ 59]LogBlueprintUserMessages: [BP_Pickup5] Unsuccessfully
+[2019.01.29-05.40.43:748][136]LogBlueprintUserMessages: [BP_Pickup4] Unsuccessfully
+[2019.01.29-05.40.44:007][167]LogBlueprintUserMessages: [BP_Pickup12] Unsuccessfully
+[2019.01.29-05.40.48:666][726]LogBlueprintUserMessages: [BP_Pickup2] Unsuccessfully
+[2019.01.29-05.40.48:849][748]LogBlueprintUserMessages: [BP_Pickup_114] Unsuccessfully
+[2019.01.29-05.40.49:425][817]LogBlueprintUserMessages: [BP_Pickup2] Unsuccessfully
+[2019.01.29-05.40.50:699][970]LogBlueprintUserMessages: [BP_Pickup2] Unsuccessfully
+[2019.01.29-05.40.50:867][990]LogBlueprintUserMessages: [BP_Pickup_114] Unsuccessfully
+[2019.01.29-05.41.01:988][324]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.01:995][325]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:003][326]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:012][327]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:021][328]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:028][329]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:037][330]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:046][331]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:054][332]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:062][333]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:072][334]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:079][335]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:088][336]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:096][337]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:104][338]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:113][339]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:121][340]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:129][341]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:137][342]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:145][343]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:154][344]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:162][345]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:171][346]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:179][347]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:187][348]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:196][349]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:204][350]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:211][351]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:220][352]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:228][353]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:236][354]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:245][355]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:253][356]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:262][357]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:270][358]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:278][359]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:287][360]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:295][361]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:303][362]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:312][363]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:321][364]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:329][365]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:337][366]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:345][367]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:354][368]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:362][369]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:370][370]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:379][371]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:387][372]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:395][373]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:403][374]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:412][375]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:421][376]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:429][377]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:437][378]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:446][379]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:454][380]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:462][381]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:470][382]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:479][383]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:488][384]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:496][385]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:504][386]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:513][387]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:521][388]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:529][389]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:538][390]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:546][391]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:555][392]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:566][393]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:572][394]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:580][395]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:588][396]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:597][397]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:605][398]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:614][399]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:621][400]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:629][401]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:638][402]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:646][403]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:655][404]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:663][405]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:671][406]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:679][407]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:689][408]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:696][409]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:705][410]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:714][411]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:721][412]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:730][413]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:740][414]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:747][415]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:755][416]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:763][417]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:772][418]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:781][419]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:789][420]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:797][421]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:805][422]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:813][423]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:821][424]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:829][425]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:837][426]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:846][427]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:854][428]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:863][429]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:872][430]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:879][431]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:888][432]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:897][433]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:905][434]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:913][435]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:921][436]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:931][437]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:938][438]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:946][439]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:955][440]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:963][441]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:971][442]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:980][443]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:988][444]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.02:996][445]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:005][446]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:013][447]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:022][448]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:030][449]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:038][450]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:047][451]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:055][452]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:064][453]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:072][454]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:080][455]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:088][456]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:098][457]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:105][458]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:113][459]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:122][460]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:130][461]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:139][462]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:146][463]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:155][464]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:163][465]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:172][466]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:180][467]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:189][468]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:197][469]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:205][470]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:213][471]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:223][472]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:230][473]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:239][474]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:247][475]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:255][476]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:264][477]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:272][478]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:280][479]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:289][480]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:296][481]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:304][482]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:313][483]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:321][484]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:330][485]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:338][486]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:346][487]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:355][488]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:362][489]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:371][490]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:381][491]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:388][492]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:396][493]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:405][494]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:413][495]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:421][496]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:430][497]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:438][498]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:447][499]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:454][500]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:463][501]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:472][502]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:480][503]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.03:488][504]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:572][634]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:580][635]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:588][636]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:596][637]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:604][638]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:613][639]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:622][640]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:629][641]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:638][642]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:647][643]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:654][644]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:663][645]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:671][646]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:680][647]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:688][648]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:696][649]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:704][650]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:713][651]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:721][652]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:730][653]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:738][654]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:746][655]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:755][656]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:763][657]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:771][658]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:780][659]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:788][660]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:796][661]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:804][662]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:813][663]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:822][664]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:830][665]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:839][666]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:848][667]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:855][668]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:864][669]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:872][670]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:881][671]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:889][672]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:896][673]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:905][674]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:914][675]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:922][676]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:930][677]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:938][678]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:947][679]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:955][680]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:963][681]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:971][682]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:980][683]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:988][684]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.04:996][685]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.05:005][686]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.05:013][687]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.05:022][688]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.05:030][689]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.05:038][690]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.05:047][691]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.05:055][692]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.05:063][693]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.05:072][694]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.05:080][695]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.05:088][696]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.05:096][697]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.05:105][698]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.05:114][699]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.05:121][700]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.05:130][701]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.05:139][702]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:199][749]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:206][750]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:215][751]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:223][752]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:232][753]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:240][754]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:248][755]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:257][756]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:265][757]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:273][758]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:282][759]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:290][760]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:299][761]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:308][762]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:315][763]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:324][764]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:332][765]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:341][766]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:349][767]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:357][768]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:366][769]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:374][770]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:382][771]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:390][772]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:398][773]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:406][774]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:415][775]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:424][776]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:432][777]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:440][778]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:448][779]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:457][780]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:465][781]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:473][782]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:482][783]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:490][784]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:498][785]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:507][786]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:515][787]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:524][788]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:532][789]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:541][790]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:549][791]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:557][792]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:565][793]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:574][794]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:583][795]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:590][796]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:599][797]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:607][798]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:615][799]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:623][800]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:632][801]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:641][802]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:648][803]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:657][804]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:665][805]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:674][806]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:682][807]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:690][808]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:699][809]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:707][810]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:715][811]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:724][812]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:732][813]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:741][814]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:749][815]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:757][816]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:766][817]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:774][818]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:782][819]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:790][820]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:799][821]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:807][822]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:816][823]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:824][824]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:832][825]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:840][826]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:848][827]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:857][828]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:865][829]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:873][830]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:882][831]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:890][832]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:900][833]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:908][834]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:915][835]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:923][836]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:932][837]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:940][838]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:949][839]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:957][840]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:965][841]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:974][842]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:982][843]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:991][844]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.22:999][845]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:008][846]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:016][847]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:024][848]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:032][849]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:040][850]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:048][851]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:057][852]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:065][853]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:073][854]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:082][855]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:091][856]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:098][857]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:108][858]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:115][859]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:124][860]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:132][861]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:140][862]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:150][863]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:157][864]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:165][865]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:174][866]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:183][867]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:192][868]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:199][869]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:207][870]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:215][871]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:224][872]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:232][873]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:241][874]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:249][875]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:257][876]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:266][877]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:274][878]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:283][879]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:291][880]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:299][881]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:308][882]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:316][883]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:324][884]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:332][885]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:341][886]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:349][887]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:357][888]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:365][889]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:374][890]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:383][891]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:391][892]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:399][893]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:407][894]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:415][895]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:424][896]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:432][897]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:441][898]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:449][899]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:457][900]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:465][901]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:474][902]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:483][903]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:490][904]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:500][905]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:508][906]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:516][907]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:524][908]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:532][909]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:541][910]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:549][911]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:557][912]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:565][913]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:574][914]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:582][915]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:590][916]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:599][917]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:607][918]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:615][919]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:624][920]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:632][921]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:641][922]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:649][923]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:657][924]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:667][925]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:675][926]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:683][927]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:691][928]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:699][929]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:707][930]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:715][931]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:724][932]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:732][933]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:741][934]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:749][935]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:757][936]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:765][937]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:774][938]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:782][939]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:791][940]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:799][941]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:807][942]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:816][943]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:824][944]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:832][945]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:841][946]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:849][947]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:858][948]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:866][949]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:874][950]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:883][951]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:891][952]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:899][953]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:908][954]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:915][955]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:924][956]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:932][957]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:941][958]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:950][959]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:957][960]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:966][961]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:975][962]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:982][963]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:990][964]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.23:999][965]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:007][966]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:019][967]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:025][968]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:033][969]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:043][970]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:050][971]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:060][972]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:067][973]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:075][974]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:083][975]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:091][976]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:100][977]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:108][978]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:116][979]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:125][980]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:133][981]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:141][982]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:150][983]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:158][984]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:166][985]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:175][986]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:184][987]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:191][988]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:199][989]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:207][990]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:217][991]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:225][992]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:235][993]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:244][994]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:252][995]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:259][996]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:267][997]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:275][998]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:283][999]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:290][  0]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:300][  1]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:307][  2]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:315][  3]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:324][  4]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:332][  5]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:341][  6]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:350][  7]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:358][  8]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:366][  9]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:375][ 10]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:383][ 11]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:391][ 12]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:399][ 13]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:408][ 14]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:416][ 15]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:424][ 16]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:433][ 17]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:442][ 18]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:450][ 19]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:458][ 20]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:466][ 21]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:475][ 22]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:484][ 23]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:490][ 24]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:500][ 25]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:508][ 26]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:515][ 27]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:524][ 28]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:532][ 29]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:541][ 30]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:550][ 31]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:557][ 32]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:566][ 33]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:574][ 34]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:583][ 35]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:592][ 36]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:600][ 37]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:608][ 38]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:616][ 39]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:624][ 40]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:633][ 41]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:641][ 42]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:649][ 43]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:658][ 44]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:666][ 45]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:675][ 46]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:684][ 47]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:691][ 48]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:700][ 49]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:708][ 50]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:716][ 51]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:725][ 52]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:732][ 53]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:740][ 54]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:749][ 55]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:757][ 56]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:766][ 57]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:774][ 58]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:782][ 59]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:791][ 60]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:799][ 61]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:808][ 62]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:817][ 63]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:824][ 64]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:832][ 65]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:841][ 66]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:850][ 67]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:858][ 68]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:866][ 69]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:874][ 70]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:883][ 71]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:891][ 72]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:900][ 73]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:908][ 74]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:916][ 75]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:924][ 76]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:933][ 77]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:941][ 78]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:950][ 79]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:958][ 80]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:966][ 81]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:975][ 82]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:983][ 83]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.24:992][ 84]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:000][ 85]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:008][ 86]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:017][ 87]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:024][ 88]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:032][ 89]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:041][ 90]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:049][ 91]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:057][ 92]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:066][ 93]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:074][ 94]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:082][ 95]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:091][ 96]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:099][ 97]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:108][ 98]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:116][ 99]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:124][100]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:132][101]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:141][102]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:149][103]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:157][104]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:166][105]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:174][106]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:182][107]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:191][108]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:199][109]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:208][110]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:217][111]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:225][112]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:233][113]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:241][114]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:249][115]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:257][116]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:266][117]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:274][118]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:282][119]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:291][120]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:300][121]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:307][122]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:315][123]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:324][124]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:332][125]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:341][126]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:350][127]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:357][128]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:366][129]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:374][130]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:382][131]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:392][132]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:401][133]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:408][134]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:416][135]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:424][136]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:433][137]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:441][138]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:449][139]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:459][140]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:466][141]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:474][142]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:483][143]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:491][144]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:499][145]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:508][146]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:516][147]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:525][148]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:533][149]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:541][150]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:550][151]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:558][152]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:566][153]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:575][154]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:583][155]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:591][156]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:600][157]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:608][158]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:617][159]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:624][160]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:633][161]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:641][162]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:649][163]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:658][164]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:665][165]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:674][166]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:683][167]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:691][168]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:699][169]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:708][170]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:716][171]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:724][172]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:733][173]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:741][174]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:750][175]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:757][176]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:766][177]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:775][178]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:783][179]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:791][180]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:799][181]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:807][182]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:816][183]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:825][184]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:833][185]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:841][186]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:850][187]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:858][188]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:866][189]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:875][190]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:883][191]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:891][192]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:900][193]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:908][194]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:916][195]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:925][196]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:933][197]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:942][198]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:950][199]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:958][200]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:966][201]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:975][202]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:983][203]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:992][204]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.25:999][205]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:007][206]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:016][207]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:024][208]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:032][209]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:041][210]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:049][211]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:058][212]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:066][213]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:074][214]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:083][215]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:091][216]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:100][217]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:108][218]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:116][219]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:124][220]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:133][221]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:141][222]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:150][223]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:158][224]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:166][225]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:175][226]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:183][227]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:192][228]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:200][229]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:209][230]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:217][231]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:224][232]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:233][233]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:242][234]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:249][235]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:259][236]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:267][237]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:275][238]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:284][239]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:291][240]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:300][241]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:308][242]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:317][243]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:325][244]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:333][245]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:342][246]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:350][247]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:359][248]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:366][249]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:374][250]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:382][251]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:391][252]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:399][253]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:407][254]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:417][255]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:424][256]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:433][257]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:441][258]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:450][259]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:458][260]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:466][261]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:474][262]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:483][263]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:491][264]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:499][265]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:508][266]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:517][267]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:524][268]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:533][269]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:542][270]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:550][271]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:558][272]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:566][273]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:575][274]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:583][275]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:592][276]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:600][277]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:608][278]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:617][279]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:625][280]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:633][281]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:642][282]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:650][283]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:659][284]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:667][285]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:675][286]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:684][287]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:692][288]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:700][289]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:708][290]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:717][291]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:725][292]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:733][293]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:742][294]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:749][295]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:757][296]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:766][297]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:774][298]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:783][299]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:791][300]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:799][301]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:808][302]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:816][303]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:824][304]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:833][305]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:841][306]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:849][307]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:858][308]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:867][309]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:874][310]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:883][311]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:891][312]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:900][313]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:908][314]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:917][315]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:925][316]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:933][317]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:942][318]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:950][319]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:958][320]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:966][321]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:974][322]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:983][323]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:991][324]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.26:999][325]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.27:007][326]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.27:016][327]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.27:024][328]LogInput: Warning: GetTimeDown cannot return a meaningful result for AnyKey
+[2019.01.29-05.41.33:714][131]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InventorySystem/Maps/Overview.Overview:PersistentLevel' has LevelScriptBlueprint '/Game/InventorySystem/Maps/Overview.Overview:PersistentLevel.Overview' with GeneratedClass '/Game/InventorySystem/Maps/Overview.Overview_C' with ClassGeneratedBy '/Game/InventorySystem/Maps/Overview.Overview:PersistentLevel.Overview'
+[2019.01.29-05.41.33:728][131]LogBlueprintUserMessages: [InventoryManagerComponent] Saved inventory to file!
+[2019.01.29-05.41.33:729][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.29-05.41.33:776][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.29-05.41.33:777][131]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InventorySystem/Maps/Overview.Overview:PersistentLevel' has LevelScriptBlueprint '/Game/InventorySystem/Maps/Overview.Overview:PersistentLevel.Overview' with GeneratedClass '/Game/InventorySystem/Maps/Overview.Overview_C' with ClassGeneratedBy '/Game/InventorySystem/Maps/Overview.Overview:PersistentLevel.Overview'
+[2019.01.29-05.41.33:798][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.29-05.41.33:821][132]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.01.29-05.41.36:741][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.29-05.50.53:921][828]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.29-06.19.13:623][103]LogSlate: Window 'InventorySystem - Unreal Editor' being destroyed
+[2019.01.29-06.19.13:875][104]Cmd: QUIT_EDITOR
+[2019.01.29-06.19.14:581][104]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.29-06.19.14:593][104]LogExit: Preparing to exit.
+[2019.01.29-06.19.15:731][104]LogExit: Editor shut down
+[2019.01.29-06.19.15:731][104]LogExit: Transaction tracking system shut down
+[2019.01.29-06.19.15:913][104]LogExit: Object subsystem successfully closed.
+[2019.01.29-06.19.15:931][104]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.01.29-06.19.15:933][104]LogD3D11RHI: Shutdown
+[2019.01.29-06.19.15:933][104]LogD3D11RHI: CleanupD3DDevice
+[2019.01.29-06.19.15:935][104]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.29-06.19.15:946][104]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2019.01.29-06.19.15:946][104]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2019.01.29-06.19.15:946][104]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2019.01.29-06.19.15:946][104]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2019.01.29-06.19.15:946][104]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2019.01.29-06.19.15:947][104]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2019.01.29-06.19.15:947][104]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2019.01.29-06.19.15:947][104]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2019.01.29-06.19.15:947][104]LogModuleManager: Shutting down and abandoning module MeshBuilder (612)
+[2019.01.29-06.19.15:947][104]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.01.29-06.19.15:947][104]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.01.29-06.19.15:947][104]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.01.29-06.19.15:947][104]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.01.29-06.19.15:947][104]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.01.29-06.19.15:947][104]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.01.29-06.19.15:947][104]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.01.29-06.19.15:947][104]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.01.29-06.19.15:947][104]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.01.29-06.19.15:947][104]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.01.29-06.19.15:947][104]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.01.29-06.19.15:947][104]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.01.29-06.19.15:947][104]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.01.29-06.19.15:947][104]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.01.29-06.19.15:948][104]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.01.29-06.19.16:826][104]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.01.29-06.19.16:826][104]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.01.29-06.19.16:826][104]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.01.29-06.19.16:826][104]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.01.29-06.19.16:826][104]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.01.29-06.19.16:826][104]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.01.29-06.19.16:826][104]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.01.29-06.19.16:826][104]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.01.29-06.19.16:826][104]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.01.29-06.19.16:826][104]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.01.29-06.19.16:826][104]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.01.29-06.19.16:826][104]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.01.29-06.19.16:826][104]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.01.29-06.19.16:826][104]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.01.29-06.19.16:826][104]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.01.29-06.19.16:826][104]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.01.29-06.19.16:827][104]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.01.29-06.19.16:827][104]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.01.29-06.19.16:827][104]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.01.29-06.19.16:827][104]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.01.29-06.19.16:827][104]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.01.29-06.19.16:827][104]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.01.29-06.19.16:827][104]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.01.29-06.19.16:881][104]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.01.29-06.19.16:881][104]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.01.29-06.19.16:881][104]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.01.29-06.19.16:881][104]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.01.29-06.19.16:881][104]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.01.29-06.19.16:881][104]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.01.29-06.19.16:881][104]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.01.29-06.19.16:881][104]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.01.29-06.19.16:881][104]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.01.29-06.19.16:881][104]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.01.29-06.19.16:882][104]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.01.29-06.19.16:884][104]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.01.29-06.19.16:964][104]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.01.29-06.19.16:964][104]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.01.29-06.19.16:964][104]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.01.29-06.19.16:964][104]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.01.29-06.19.16:964][104]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.01.29-06.19.16:964][104]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.01.29-06.19.16:964][104]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.01.29-06.19.16:964][104]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.01.29-06.19.16:964][104]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.01.29-06.19.16:964][104]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.01.29-06.19.16:964][104]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.01.29-06.19.16:964][104]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.01.29-06.19.16:964][104]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.01.29-06.19.16:964][104]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.01.29-06.19.16:964][104]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.01.29-06.19.16:964][104]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.01.29-06.19.16:964][104]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.01.29-06.19.16:967][104]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.01.29-06.19.16:968][104]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.01.29-06.19.16:968][104]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.01.29-06.19.17:069][104]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.01.29-06.19.17:170][104]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.01.29-06.19.17:170][104]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.01.29-06.19.17:170][104]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.01.29-06.19.17:170][104]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.01.29-06.19.17:170][104]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.01.29-06.19.17:170][104]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.01.29-06.19.17:170][104]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.01.29-06.19.17:170][104]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.01.29-06.19.17:170][104]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.01.29-06.19.17:170][104]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.01.29-06.19.17:170][104]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.01.29-06.19.17:171][104]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.01.29-06.19.17:171][104]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.01.29-06.19.17:171][104]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.01.29-06.19.17:171][104]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.01.29-06.19.17:171][104]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.01.29-06.19.17:171][104]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.01.29-06.19.17:171][104]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.01.29-06.19.17:172][104]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.01.29-06.19.17:172][104]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.01.29-06.19.17:178][104]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.01.29-06.19.17:178][104]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.01.29-06.19.17:178][104]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.01.29-06.19.17:178][104]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.01.29-06.19.17:178][104]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.01.29-06.19.17:178][104]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.01.29-06.19.17:178][104]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.01.29-06.19.17:178][104]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.01.29-06.19.17:178][104]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.01.29-06.19.17:178][104]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.01.29-06.19.17:178][104]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.01.29-06.19.17:178][104]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.01.29-06.19.17:178][104]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.01.29-06.19.17:178][104]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.01.29-06.19.17:178][104]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.01.29-06.19.17:178][104]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.01.29-06.19.17:179][104]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.01.29-06.19.17:179][104]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.01.29-06.19.17:179][104]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.01.29-06.19.17:179][104]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.01.29-06.19.17:180][104]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.01.29-06.19.17:180][104]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.01.29-06.19.17:180][104]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.01.29-06.19.17:180][104]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.01.29-06.19.17:180][104]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.01.29-06.19.17:180][104]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.01.29-06.19.17:180][104]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.01.29-06.19.17:180][104]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.01.29-06.19.17:180][104]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.01.29-06.19.17:180][104]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.01.29-06.19.17:180][104]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.01.29-06.19.17:180][104]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.01.29-06.19.17:180][104]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.01.29-06.19.17:180][104]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.01.29-06.19.17:180][104]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.01.29-06.19.17:180][104]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.01.29-06.19.17:180][104]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.01.29-06.19.17:180][104]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.01.29-06.19.17:270][104]LogDerivedDataCache: Shutdown
+[2019.01.29-06.19.17:270][104]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.01.29-06.19.17:270][104]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.01.29-06.19.17:270][104]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.01.29-06.19.17:270][104]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.01.29-06.19.17:270][104]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.01.29-06.19.17:270][104]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.01.29-06.19.17:270][104]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.01.29-06.19.17:270][104]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.01.29-06.19.17:270][104]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.01.29-06.19.17:270][104]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.01.29-06.19.17:270][104]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.01.29-06.19.17:270][104]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.01.29-06.19.17:270][104]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.01.29-06.19.17:270][104]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.01.29-06.19.17:270][104]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.01.29-06.19.17:270][104]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.01.29-06.19.17:270][104]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.01.29-06.19.17:270][104]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.01.29-06.19.17:271][104]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.01.29-06.19.17:271][104]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.01.29-06.19.17:271][104]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.01.29-06.19.17:271][104]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.01.29-06.19.17:271][104]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.01.29-06.19.17:272][104]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.01.29-06.19.17:272][104]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.01.29-06.19.17:272][104]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.01.29-06.19.17:272][104]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.01.29-06.19.17:276][104]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.01.29-06.19.17:276][104]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.01.29-06.19.17:276][104]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.01.29-06.19.17:276][104]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.01.29-06.19.17:276][104]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.01.29-06.19.17:276][104]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.01.29-06.19.17:276][104]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.01.29-06.19.17:276][104]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.01.29-06.19.17:276][104]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.01.29-06.19.17:276][104]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.01.29-06.19.17:277][104]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.01.29-06.19.17:277][104]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.01.29-06.19.17:277][104]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.01.29-06.19.17:277][104]LogHMD: Freeing OpenVRDLLHandle.
+[2019.01.29-06.19.17:277][104]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.01.29-06.19.17:277][104]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.01.29-06.19.17:277][104]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.01.29-06.19.17:277][104]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.01.29-06.19.17:277][104]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.01.29-06.19.17:277][104]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.01.29-06.19.17:277][104]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.01.29-06.19.17:304][104]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.01.29-06.19.17:304][104]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.29-06.19.17:304][104]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0EDD7930-4C6C-8A24-8DD6-75920F260D4F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=f2230d48466e1fc11c15d1ae45529b58%7C5f31e5601c044e60b553d8977a4354c3%7C821c1a31-a4ca-440d-a8ac-373478d2f0af&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.01.29-06.19.17:336][104]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.01.29-06.19.17:337][104]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.01.29-06.19.17:337][104]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.01.29-06.19.17:337][104]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.01.29-06.19.17:337][104]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.01.29-06.19.17:337][104]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.01.29-06.19.17:337][104]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.01.29-06.19.17:337][104]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.01.29-06.19.17:337][104]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.01.29-06.19.17:337][104]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.01.29-06.19.17:338][104]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.01.29-06.19.17:338][104]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.29-06.19.17:338][104]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.29-06.19.17:338][104]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.29-06.19.17:338][104]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.29-06.19.17:338][104]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.29-06.19.17:338][104]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.29-06.19.17:338][104]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.29-06.19.17:338][104]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.29-06.19.17:338][104]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.29-06.19.17:338][104]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.29-06.19.17:338][104]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.29-06.19.17:338][104]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.29-06.19.17:338][104]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.29-06.19.17:338][104]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.29-06.19.17:338][104]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.29-06.19.17:338][104]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.29-06.19.17:338][104]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.29-06.19.17:338][104]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.29-06.19.17:344][104]LogExit: Exiting.
+[2019.01.29-06.19.17:369][104]Log file closed, 01/29/19 19:19:17
