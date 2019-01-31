@@ -20,7 +20,7 @@ class ASciiiiienceCharacter : public ACharacter
 	class UCameraComponent* FollowCamera;
 
 	/** Custom jump */
-	int m_jumpCounter;
+	int m_multiJumpCounter;
 
 public:
 	ASciiiiienceCharacter();
@@ -34,7 +34,7 @@ public:
 	float BaseLookUpRate;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Multi Jump Ability")
-	int MaxJumpCount;
+	int MaxMultiJump;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Multi Jump Ability")
 	float MultiJumpForce;

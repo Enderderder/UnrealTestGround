@@ -33,7 +33,7 @@ ASciiiiienceCharacter::ASciiiiienceCharacter()
 	GetCharacterMovement()->AirControl = 0.2f;
 
 	// Configure multi jump stat
-	MaxJumpCount = 3;
+	MaxMultiJump = 3;
 	MultiJumpForce = 600.0f;
 
 	// Create a camera boom (pulls in towards the player if there is a collision)
@@ -86,7 +86,7 @@ void ASciiiiienceCharacter::Landed(const FHitResult& Hit)
 	Super::Landed(Hit);
 
 	// Reset the jump count as the player reaches the ground
-	m_jumpCounter = 0;
+	m_multiJumpCounter = 0;
 }
 
 void ASciiiiienceCharacter::OnResetVR()
@@ -148,18 +148,17 @@ void ASciiiiienceCharacter::MoveRight(float Value)
 void ASciiiiienceCharacter::CustomJump()
 {
 
-	if (!bPressedJump && m_jumpCounter < MaxJumpCount)
+	if (!bPressedJump)
 	{
-		// Increase the jump counter as player is jumping
-		m_jumpCounter++;
-
-		if (m_jumpCounter == 1 && 
-			GetCharacterMovement()->MovementMode != MOVE_Falling)
+		if (GetCharacterMovement()->MovementMode == MOVE_Walking)
 		{
 			Jump();
 		}
-		else
+		else if (m_multiJumpCounter < MaxMultiJump)
 		{
+			// Increase the multi-jump counter as player is jumping
+			m_multiJumpCounter++;
+
 			bPressedJump = true;
 			LaunchCharacter(FVector(0.0f, 0.0f, MultiJumpForce), false, true);
 		}
