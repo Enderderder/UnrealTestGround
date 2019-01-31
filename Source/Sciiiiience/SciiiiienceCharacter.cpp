@@ -153,7 +153,8 @@ void ASciiiiienceCharacter::CustomJump()
 		// Increase the jump counter as player is jumping
 		m_jumpCounter++;
 
-		if (m_jumpCounter == 1)
+		if (m_jumpCounter == 1 && 
+			GetCharacterMovement()->MovementMode != MOVE_Falling)
 		{
 			Jump();
 		}
