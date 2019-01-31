@@ -8,6 +8,8 @@
 #include "GameFramework/CharacterMovementComponent.h"
 #include "GameFramework/Controller.h"
 #include "GameFramework/SpringArmComponent.h"
+#include "Kismet/GameplayStatics.h"
+#include "Classes/Camera/CameraShake.h"
 
 //////////////////////////////////////////////////////////////////////////
 // ASciiiiienceCharacter
@@ -58,8 +60,11 @@ void ASciiiiienceCharacter::SetupPlayerInputComponent(class UInputComponent* Pla
 {
 	// Set up gameplay key bindings
 	check(PlayerInputComponent);
-	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ASciiiiienceCharacter::CustomJump);
+
+	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
 	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
+
+	PlayerInputComponent->BindAction("Crouch", IE_Pressed, this, &ASciiiiienceCharacter::CrouchSwitch);
 
 	PlayerInputComponent->BindAxis("MoveForward", this, &ASciiiiienceCharacter::MoveForward);
 	PlayerInputComponent->BindAxis("MoveRight", this, &ASciiiiienceCharacter::MoveRight);
@@ -164,4 +169,16 @@ void ASciiiiienceCharacter::CustomJump()
 		}
 	}
 
+}
+
+void ASciiiiienceCharacter::CrouchSwitch()
+{
+	if (!bIsCrouched)
+	{
+		Crouch();
+	}
+	else
+	{
+		UnCrouch();
+	}
 }
